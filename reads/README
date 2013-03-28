@@ -1,0 +1,13 @@
+All sequencing, mapping and assembly data can be downloaded at:
+
+ftp://ftp.cebitec.uni-bielefeld.de/pub/ngscomparison/reads 
+
+In the following folders you will find the sequencing reads produced during this study. 
+
+./raw           : sequencing data as provided by the sequencing machine derectly
+./trimmed       : pre-processed sequencing data (trimmed and merged reads the case of the MiSeq and GSJ data)
+./subsampled    : trimmed data further sub-sabpled to optimal coverage rates for the de novo assembly
+
+The directories labeled as "raw" contains fastq files as generated directly by the sequencing machines.
+The directory labeled as "trimmed" contains further pre-processed fastq data (trimmed "more stringent").
+For a detailed description of data pre-processing please see the read processing section of the supplementary material. 

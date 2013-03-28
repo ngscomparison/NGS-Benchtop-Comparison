@@ -1,0 +1,9 @@
+Sub folder containing script to analyse the process and analyse the sequencing data:
+
+./trimming      : Scripts that are used to quality trim the data
+./mapping       : Scripts that are related to the evaluation of reference based mapping
+                  To get an overview of the concrete pipeline, please see (and execute) the RUN_MAPPING_PIPELINE.sh script.
+./assembly      : Scripts that are related to the evaluation of de novo assembly
+                  To get an overview of the concrete pipeline, please see (and execute) the RUN_ASSEMBLY_PIPELINE.sh script.
+
+In order to use SeqSphere follow this link: http://www.ridom.de/seqsphere/ngscompare

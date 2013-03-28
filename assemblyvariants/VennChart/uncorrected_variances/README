@@ -1,0 +1,11 @@
+Files:
+
+Near_Variants.xls	 : List of positions which were manually corrected.
+Overlapping_Variants.xls : Varaints which are located at the same genomic origin due to gene overlaps. 
+
+SNPs_GSJ.txt        : raw reported substitution variants for the 454 GSJunior dataset (both runs 1+2)
+SNPs_MiSeq2x250.txt : raw reported substitution variants for the MiSeq dataset
+SNPs_PGM300.txt	    : raw reported substitution variants for the PGM dataset
+InDels_GSJ.txt          : raw reported insertion and deletion variants for the 454 GSJunior dataset (both runs 1+2)
+InDels_MiSeq2x250.txt	: raw reported insertion and deletion variants for the MiSeq dataset
+InDels_PGM300bp.txt    : raw reported insertion and deletion variants for the PGM dataset

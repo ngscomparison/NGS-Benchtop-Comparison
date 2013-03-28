@@ -1,0 +1,13 @@
+Data listed here is sub-sampled to optimal coverage ranges prior to the de novo assemblies.
+All sub-sampling was done on the file sprovided in the 'trimmed' direcotry.
+
+sakai_gsj-both-full.fastq.zip           : Full processed and combined GSJ data  
+sakai_mis_2x150bp-85percent.fastq.zip   : Processed, combined and subsampled to ~75x coverage (approx. 85 percent) MiSeq 2x150bp data
+sakai_mis_2x250bp-60percent.fastq.zip   : Processed, combined and subsampled to ~75x coverage (approx. 60 percent) MiSeq 2x250bp data
+sakai_pgm_100bp-full.fastq.zip          : Full 100bp PGM data
+sakai_pgm_200bp-40percent.fastq.zip     : 200bp PGM data subsampled to ~40x coverage (approx. 40 percent)
+sakai_pgm_300bp-50percent.fastq.zip     : 300bp PGM data subsampled to ~40x coverage (approx. 50 percent)
+sakai_pgm_400bp-18percent.fastq.zip     : 400bp PGM data subsampled to ~40x coverage (approx. 18 percent)
+
+Please see the platform corresponding sequencing section of the supplementary material for
+a detailed description of library preparation and sequencing protocols.

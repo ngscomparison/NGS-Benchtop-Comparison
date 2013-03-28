@@ -1,0 +1,13 @@
+sakai_gsj-1.fastq.zip   : Unprocessed reads of the first run on the 454 GSJunior
+sakai_gsj-2.fastq.zip   : Unprocessed reads of the second run on the 454 GSJunior
+sakai_mis_2x150bp-1.fastq.zip  : Unprocessed forward paired reads of the MiSeq paired-end run (1/4th lane)
+sakai_mis_2x150bp-2.fastq.zip  : Unprocessed reverse paired reads of the MiSeq paired-end run (1/4th lane)
+sakai_mis-2x250bp-1.fastq.zip  : Unprocessed forward paired reads of the MiSeq Nextera 2x250bp paired-end run (1/4th lane) 
+sakai_mis-2x250bp-2.fastq.zip  : Unprocessed reverse paired reads of the MiSeq Nextera 2x250bp paired-end run (1/4th lane)
+sakai_pgm_100bp.fastq.zip   : Unprocessed 100bp PGM data with "more stringent" filter set on in TorrentSuite v1.5 (one 316 chip) 
+sakai_pgm_200bp.fastq.zip   : Unprocessed 200bp PGM data with "more stringent" filter set on in TorrentSuite v2.2 (one 316 chip)
+sakai_pgm_300bp.fastq.zip   : Unprocessed 300 bp PGM data with "more stringent" filter set on in TorrentSuite v3.0 (1/2 318 chip) (recalibration disabled)
+sakai_pgm_400bp.fastq.zip   : Unprocessed 400bp PGM data with "more stringent" filter set on in TorrentSuite v3.2 (one 318 chip) (recalibration disabled)
+
+Please see the platform corresponding sequencing section of the supplementary material for
+a detailed description of library preparation and sequencing protocols.

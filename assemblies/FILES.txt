@@ -1,0 +1,14 @@
+In this folder you will find the de novo assembly results as reported by MIRA v3.4.0 (zipped ACE format) for the 
+
+sakai*     : Escherichia coli O157:H7 Sakai datasets
+
+The reads were pre-processed and assembled de novo as described in the methods section of the manuscript. 
+Prior to the assemblies, MiSeq and PGM data were randomly sub-samplled to approx. 75 and 40 fold coverage, respectively.
+
+sakai_gsj-both-full_out.ace.zip  : MIRA de dovo assembly result of both combined 454 GSJunior runs
+sakai_mis-2x150bp-85percent_out.ace.zip  : MIRA de dovo assembly result of the MiSeq 2x150bp paired-end data (1/4th lane) (applied quality trimming: trim_morestringent.pl)
+sakai_mis-2x250bp-60percent_out.ace.zip : MIRA de dovo assembly result of the MiSeq 2x250bp paired-end data (1/4th lane) (applied quality trimming: trim_morestringent.pl)
+sakai_pgm_100bp-full_out.ace.zip    : MIRA de dovo assembly result result of the PGM data (one 316 chip) with 100bp chemistry (applied quality trimming: 'more stringent" via the TorrentSuite v2.2)
+sakai_pgm_200bp-40percent_out.ace.zip    : MIRA de dovo assembly result result of the PGM data (one 316 chip) with 200bp chemistry (applied quality trimming: 'more stringent" via the TorrentSuite v2.2)
+sakai_pgm_300bp-50percent_out.ace.zip   : MIRA de dovo assembly result result of the PGM data (1/2 318 chip) with 300bp chemistry (applied quality trimming: 'more stringent" via the TorrentSuite v3.0)
+sakai_pgm_400bp-18percent_out.ace.zip   : MIRA de dovo assembly result result of the PGM data (one 318 chip) with 400bp chemistry (applied quality trimming: 'more stringent" via the TorrentSuite v3.2)

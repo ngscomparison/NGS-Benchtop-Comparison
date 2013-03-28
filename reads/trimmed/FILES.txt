@@ -1,0 +1,10 @@
+sakai_gsj-both.fastq.zip    : Processed (trim_morestringent.pl) and combined (1+2) runs of the 454 GSJunior raw data
+sakai_mis_2x150pb-both-trimmed.fastq.zip : Processed (trim_morestringent.pl) and combined forward & reverse pairs of the raw MiSeq data (fastq is shuffled, named according to the MIRA paired-end naming scheme and cleaned, i.e. incomplete pairs removed)
+sakai_mis-2x250bp-both-trimmed.fastq.zip : Processed (trim_morestringent.pl) and combined forward & reverse pairs of the raw 2x250bp MiSeq data (fastq is shuffled, named according to the MIRA paired-end naming scheme and cleaned, i.e. incomplete pairs removed)
+sakai_pgm_100bp.fastq.zip   : Unprocessed (via TorrentSuite v1.5 with "more stringent" filter set on) raw 100bp PGM data
+sakai_pgm_200bp.fastq.zip   : Unprocessed (via TorrentSuite v2.2 with "more stringent" filter set on) raw 200bp PGM data
+sakai_pgm_300bp.fastq.zip   : Unprocessed (via TorrentSuite v3.0 with "more stringent" filter set on, recalibration disabled) raw 300bp PGM data
+sakai_pgm_400bp.fastq.zip   : Unprocessed (via TorrentSuite v3.2 with "more stringent" filter set on, recalibration disabled) raw 400bp PGM data 
+
+Please see the platform corresponding sequencing section of the supplementary material for
+a detailed description of library preparation and sequencing protocols.

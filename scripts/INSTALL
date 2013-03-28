@@ -1,0 +1,18 @@
+In order to use all scripts and reproduce the results deposited here you need (at least this version):
+bwa ( used version: 0.5.10)
+samtools (used  version: 0.1.18 (r982:295))
+R (used version: 2.15.0)
+Python 2.7 (used version:  r27:82500, Aug 07 2010, 16:54:59)
+Perl (used version: v5.12.3)
+BioPerl (used version: 1.58)
+
+The following module dependencies exist:
+==python==
+Bio
+pysam
+random
+re
+
+==perl==
+Tie::File
+List::Util
