@@ -10,4 +10,4 @@ variants_assembly.R	: The R script to generate the Venn diagrams
     Each line those files contains two columns (separated by tab), the first column indicating the platform and
     the second column lists all identified variants, separated by comma. First line is for the PGM, second  MiSeq and third GSJ.
 
-A more detailed description about how to use SeqSphere+ to produce the lists for Fig. 1b and how the exported the list were produced can be found at: http://www.seqsphere.de/doc/NGS_Comparison_VennChart
+A more detailed description about how SeqSphere+ was used to produce the lists for Fig. 1b can be found at: http://www.seqsphere.de/doc/NGS_Comparison_VennChart
