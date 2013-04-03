@@ -1,0 +1,8 @@
+Files:
+    Core_Genes_SakaiED45.xls	:   List of all nonpseudo and nonparalogous Ecoli SAKAI genes shared by all three data sets. 
+    MLSTplus.xls    : Table listing the numbers of perfect and non perfect matching core genes for each data set.
+    MLSTplus.csv    : CSV subset of MLSTplus.xls. 
+    MLSTplus_barchart.r	: R script to generate the barchart.
+
+A description about how to use SeqSphere+ to produce the values for Fig. 1a can be found at:
+http://www.seqsphere.de/doc/NGS_Comparison_BarChart
