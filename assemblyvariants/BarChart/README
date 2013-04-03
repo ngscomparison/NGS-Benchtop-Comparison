@@ -4,5 +4,4 @@ Files:
     MLSTplus.csv    : CSV subset of MLSTplus.xls. 
     MLSTplus_barchart.r	: R script to generate the barchart.
 
-A description about how to use SeqSphere+ to produce the values for Fig. 1a can be found at:
-http://www.seqsphere.de/doc/NGS_Comparison_BarChart
+A description about how to use SeqSphere+ to produce the values for Fig. 1a can be found at: http://www.seqsphere.de/doc/NGS_Comparison_BarChart
