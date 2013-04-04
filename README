@@ -1,4 +1,5 @@
 This repository contains the extended supplementary information, i.e. the sequencing data, assemblies, mappings, and scripts, for the publication:
+  
   Jünemann S, Sedlazeck FJ, Prior K, Albersmeier A, John U, Kalinowski J, Mellmann A, Goesmann A, von Haeseler A, Stoye J, Harmsen D (2013). Updating benchtop sequencing performance comparison. Nature Biotechnology 31, 294–296, doi:10.1038/nbt.2522.
 
 In the following folders you will find what is needed to reproduce the results:
@@ -8,6 +9,9 @@ In the following folders you will find what is needed to reproduce the results:
 ./reads     : contains raw, trimmed and sub-sampled reads generated in the course of this study. 
 ./references: the genomic reference sequences used
 ./scripts   : scripts used to process and analyse the sequencing data divided into corresponding subfolders
+
+All sequencing data, mapping and assembly results can be downloaded at:
+ftp://ftp.cebitec.uni-bielefeld.de/pub/ngscomparison/
 
 
 
