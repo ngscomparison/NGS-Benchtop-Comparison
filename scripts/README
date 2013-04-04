@@ -1,4 +1,4 @@
-Sub folder containing script to analyse the process and analyse the sequencing data:
+Sub folder containing script to process and analyse the sequencing data:
 
 ./trimming      : Scripts that are used to quality trim the data
 ./mapping       : Scripts that are related to the evaluation of reference based mapping
