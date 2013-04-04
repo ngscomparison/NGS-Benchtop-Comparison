@@ -1,0 +1,10 @@
+This directory contains the assembly based variant lists as reported by SeqSphere+. 
+Please see the consensus variants section of the supplementary material for a more
+detailed description of the method applied to report the variants.
+
+Directories:
+
+VennChart   : contains all variances as reported by SeqSphere+ 
+BarChart    : contains the MLST+ results of all joint nonpseudo and nonparalogous Sakai coding genes
+Sanger	: contains the list and results of all Sanger sequenced targets
+
