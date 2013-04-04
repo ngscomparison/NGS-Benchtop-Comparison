@@ -2,12 +2,12 @@ This repository contains the extended supplementary information, i.e. the sequen
   Jünemann S, Sedlazeck FJ, Prior K, Albersmeier A, John U, Kalinowski J, Mellmann A, Goesmann A, von Haeseler A, Stoye J, Harmsen D (2013). Updating benchtop sequencing performance comparison. Nature Biotechnology 31, 294–296, doi:10.1038/nbt.2522.
 
 In the following folders you will find what is needed to reproduce the results:
-./mapping           : contains mapping alignments (sorted BAM) of uniquely mapped reads
-./assembly          : contains de novo assembly results obtained by MIRA v3.4.0 (ACE files)
-./assemblyvariants  : contains SNP and InDel variants detected by SeqSphere+ and the corresponding R script to visualize these results in Venn diagrams
-./reads             : contains raw, trimmed and sub-sampled reads generated in the course of this study. 
-./references        : the genomic reference sequences used
-./scripts           : scripts used to process and analyse the sequencing data divided into corresponding subfolders
+./mapping   :contains mapping alignments (sorted BAM) of uniquely mapped reads
+./assembly  : contains de novo assembly results obtained by MIRA v3.4.0 (ACE files)
+./results   : contains SNP and InDel variants, MLST+ results, corresponding R scripts for visualization and the Sanger sequencing results
+./reads     : contains raw, trimmed and sub-sampled reads generated in the course of this study. 
+./references: the genomic reference sequences used
+./scripts   : scripts used to process and analyse the sequencing data divided into corresponding subfolders
 
 
 
