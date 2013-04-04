@@ -1,5 +1,5 @@
 This repository contains the extended supplementary information, i.e. the sequencing data, assemblies, mappings, and scripts, for the publication:
-  Jünemann S, Sedlazeck FJ, Prior K, Albersmeier A, John U, Kalinowski J, Mellmann A, Goesmann A, von Haeseler A, Stoye J, Harmsen D (2013). Updating benchtop sequencing performance comparison. Nature Biotechnology 31, 294–296. doi:10.1038/nbt.2522
+  Jünemann S, Sedlazeck FJ, Prior K, Albersmeier A, John U, Kalinowski J, Mellmann A, Goesmann A, von Haeseler A, Stoye J, Harmsen D (2013). Updating benchtop sequencing performance comparison. Nature Biotechnology 31, 294–296, doi:10.1038/nbt.2522.
 
 In the following folders you will find what is needed to reproduce the results:
 ./mapping           : contains mapping alignments (sorted BAM) of uniquely mapped reads
