@@ -6,4 +6,5 @@ Sub folder containing script to process and analyse the sequencing data:
 ./assembly      : Scripts that are related to the evaluation of de novo assembly
                   To get an overview of the concrete pipeline, please see (and execute) the RUN_ASSEMBLY_PIPELINE.sh script.
 
-In order to use SeqSphere follow this link: http://doc.seqsphere.de/doc/NGS_Comparison_BarChart
+In order to use SeqSphere follow this link: http://www.ridom.de/seqsphere/guide/NGS_Comparison_BarChart.html
+                  
