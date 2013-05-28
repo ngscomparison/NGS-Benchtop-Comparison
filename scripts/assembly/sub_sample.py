@@ -27,7 +27,7 @@ def write_random_records(fname, N=0.5):
             for i in range(4): fha.readline()
         for i in range(4):
             suba.write(fha.readline())
-	    rec_no += 1 
+	rec_no += 1 
 
     print >>sys.stderr, "wrote to %s" % (suba.name)
     suba.close()
